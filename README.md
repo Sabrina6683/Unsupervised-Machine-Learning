@@ -1,4 +1,4 @@
-**Second team project during WBS Coding School 'Data Science' Bootcamp**
+**Third team project during WBS Coding School 'Data Science' Bootcamp**
 
 *Unsupervised Machine Learning: Clustering Songs*
 
